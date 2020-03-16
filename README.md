@@ -2,7 +2,7 @@
 Spread of COVID-19 over time globally
 
 **NOTE:- The plotly visualizations and animations are not visible in Github environment. Click on the below link for full content.**
-
+https://nbviewer.jupyter.org/github/mrout94/Corona_Virus_Spread_Timelapse/blob/master/COVID_19_Data_Preprocessing.ipynb
 
 ## Corona Virus Family
 Coronaviruses(CoV) are a large family of viruses that cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome(MERS-CoV) and Severe Acute Respiratory Syndrome(SARS-CoV).
